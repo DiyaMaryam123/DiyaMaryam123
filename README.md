@@ -6,7 +6,7 @@ Currently pursuing my M.Tech with a strong interest in applying **Machine Learni
 
 ---
 
-## 📌 Tech I’m Using
+## 💻 Tech I’m Using
 - Python, C
 - HTML, CSS 
 - Machine Learning & Deep Learning  
